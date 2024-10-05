@@ -1,0 +1,18 @@
+{
+  "YourTeam": [
+    {"name": "P1", "id":  156, "gender": 1, "attacks":  ["FlameWheel", "Inferno", "LavaPlume", "IronTail"]},
+    {"name": "P2", "id":  212, "gender": 1, "attacks":  ["CrossPoison", "MetalClaw", "SilverWind", "XScissor"]},
+    {"name": "P3", "id":  131, "gender": 0, "attacks":  ["AuroraBeam", "Blizzard", "HydroPump", "IceBeam"]},
+    {"name": "P4", "id":  135, "gender": 1, "attacks":  ["ElectroBall", "Thunder", "ZapCannon", "ShadowBall"]},
+    {"name": "P5", "id":  444, "gender": 1, "attacks":  ["Bite", "DragonBreath", "Bulldoze", "AerialAce"]},
+    {"name": "P6", "id":  497, "gender": 1, "attacks":  ["LeafTornado", "MagicalLeaf", "AquaTail", "Outrage"]}
+  ],
+  "FoesTeam": [
+    {"name": "C1", "id":  305, "gender": 1, "attacks":  ["BodySlam", "AncientPower", "IronTail", "WaterPulse"]},
+    {"name": "C2", "id":  228, "gender": 1, "attacks":  ["DarkPulse", "HeatWave", "ThunderFang", "RockSmash"]},
+    {"name": "C3", "id":  750, "gender": 1, "attacks":  ["Bulldoze", "MudSlap", "MegaKick", "Magnitude"]},
+    {"name": "C4", "id":  590, "gender": 1, "attacks":  ["EnergyBall", "HiddenPower", "Astonish", "Bide"]},
+    {"name": "C5", "id":  204, "gender": 1, "attacks":  ["Earthquake", "Spikes", "Swift", "GyroBall"]},
+    {"name": "C6", "id":  503, "gender": 1, "attacks":  ["Blizzard", "HydroPump", "IceBeam", "AirSlash"]}
+  ]
+}
